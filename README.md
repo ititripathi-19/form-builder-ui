@@ -1,4 +1,4 @@
-# form-builder
+# Form-Builder-UI
 
 ## Project setup
 ```
